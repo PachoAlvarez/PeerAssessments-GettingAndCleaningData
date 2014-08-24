@@ -19,5 +19,5 @@ This database is reported as "merged_data.txt"
 In step No. 10, from the previous database, the variables relate to the average values of the measured properties, and their standard deviations are extracted.
 This extracted database, containing 88 variables, and the same 10,300 records, is reported as "extracted_data.txt"
 
-Finally, in step 11, summarize the 10,300 records in the 180 resulting from averaging all observations by activity and person executor of the activity.
+Finally, in step 11, summarize the 10,300 records in the 180 records resulting from averaging all observations by activity and person executor of the activity.
 The latter database, with the average is stored in the "average_data.txt" file, as indicated in the assignment.
